@@ -63,7 +63,7 @@ I specialize in **MongoDB, Express.js, React, and Node.js** to deliver dynamic a
 
 ## 🐍 GitHub Contribution Snake
 
-![GitHub Contribution Snake](https://gishnudev.github.io/my-repo/github-contribution-snake.svg)
+![GitHub Contribution Snake](https://gishnudev.github.io/{your-repo-name}/github-contribution-snake.svg)
 
 ---
 

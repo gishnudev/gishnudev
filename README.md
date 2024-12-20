@@ -13,10 +13,10 @@ I specialize in **MongoDB, Express.js, React, and Node.js** to deliver dynamic a
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="[https://facebook.com/jishnudevadathan](https://www.facebook.com/profile.php?id=100004666445434&mibextid=ZbWKwL)" target="_blank">
+ <a href="https://www.facebook.com/profile.php?id=100004666445434&mibextid=ZbWKwL" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="[https://instagram.com/jishnu_devadathan](https://www.instagram.com/jishnu_devadathan/profilecard/?igsh=MTdmd3doZmUyeDdjZA==)" target="_blank">
+  <a href="https://www.instagram.com/jishnu_devadathan/profilecard/?igshid=MTdmd3doZmUyeDdjZA==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://linkedin.com/in/gishnu-devadathan" target="LinkeIn-">

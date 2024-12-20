@@ -5,7 +5,7 @@ I specialize in **MongoDB, Express.js, React, and Node.js** to deliver dynamic a
 
 - 🌟 **Skills**: Full-Stack Development, RESTful APIs, Responsive Design and State Management.  
 - 🚀 **Interests**: Exploring new tech stacks, contributing to open-source, and optimizing user experiences.  
-- 🌱 **Learning**: Currently enhancing my knowledge in microservices and serverless architectures.  
+- 🌱 **Learning**: Currently studying blockchain technology.
 - 💬 **Let's Collaborate**: Open to exciting projects and tech discussions. Let's create something amazing together!  
 
 ---

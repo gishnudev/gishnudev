@@ -19,7 +19,7 @@ I specialize in **MongoDB, Express.js, React, and Node.js** to deliver dynamic a
   <a href="[https://instagram.com/jishnu_devadathan](https://www.instagram.com/jishnu_devadathan/profilecard/?igsh=MTdmd3doZmUyeDdjZA==)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="www.linkedin.com/in/gishnu-devadathan" target="LinkeIn-">
+  <a href="https://linkedin.com/in/gishnu-devadathan" target="LinkeIn-">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
